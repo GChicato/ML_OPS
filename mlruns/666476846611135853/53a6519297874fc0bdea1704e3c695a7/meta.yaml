@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/guillaumeletosser/Desktop/Albert%20school/mlops/mlruns/666476846611135853/53a6519297874fc0bdea1704e3c695a7/artifacts
+end_time: 1762090639664
+entry_point_name: ''
+experiment_id: '666476846611135853'
+lifecycle_stage: active
+run_id: 53a6519297874fc0bdea1704e3c695a7
+run_name: log-existing-model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762090598790
+status: 3
+tags: []
+user_id: guillaumeletosser
